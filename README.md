@@ -11,5 +11,6 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </div>
-  
-  ![Alt Text](https://www.mouser.com/empowering-innovation/portals/1/skins/Empowering-innovation/images/ai-face-animated-glowing3-opt.gif)
+  <div align="center">
+    <img align="center" src="https://3.bp.blogspot.com/-5ywiSdCpRG0/XO3IuYPQQtI/AAAAAAAzHpE/NBg1MglYeP4PW_3x9QOsJgcGW4VBm-UKgCLcBGAs/s1600/AW3884646_16.gif">
+  </div>
