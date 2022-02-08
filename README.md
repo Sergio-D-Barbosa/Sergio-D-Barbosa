@@ -13,5 +13,7 @@
   </div>
   <br>
   <div align="center">
+    <hr>
+    <h2>"Tudo o que um sonho precisa para ser realizado é alguém que acredite que ele possa ser realizado." ~Roberto Shinyashiki</h2>
     <img align="center" width="600" src="https://i.pinimg.com/originals/76/b4/64/76b4645640120014ba9c4fb26dbd40fd.gif">
   </div>
