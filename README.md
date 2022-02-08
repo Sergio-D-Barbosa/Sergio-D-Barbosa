@@ -11,6 +11,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </div>
+  <br>
   <div align="center">
-    <img align="center" src="https://3.bp.blogspot.com/-5ywiSdCpRG0/XO3IuYPQQtI/AAAAAAAzHpE/NBg1MglYeP4PW_3x9QOsJgcGW4VBm-UKgCLcBGAs/s1600/AW3884646_16.gif">
+    <img align="center" width="600" src="https://i.pinimg.com/originals/76/b4/64/76b4645640120014ba9c4fb26dbd40fd.gif">
   </div>
